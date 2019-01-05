@@ -13,6 +13,20 @@
 		D6A4EDAF21E092E50053D14F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDAE21E092E50053D14F /* Assets.xcassets */; };
 		D6A4EDB221E092E50053D14F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDB021E092E50053D14F /* LaunchScreen.storyboard */; };
 		D6A4EDB521E092E50053D14F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D6A4EDB421E092E50053D14F /* main.m */; };
+		D6A4EDC921E093640053D14F /* 4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDBC21E093640053D14F /* 4.mp4 */; };
+		D6A4EDCA21E093640053D14F /* 3.mkv in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDBD21E093640053D14F /* 3.mkv */; };
+		D6A4EDCB21E093640053D14F /* 2.wmv in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDBE21E093640053D14F /* 2.wmv */; };
+		D6A4EDCC21E093640053D14F /* 10.mpg in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDBF21E093640053D14F /* 10.mpg */; };
+		D6A4EDCD21E093640053D14F /* 5.mov in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC021E093640053D14F /* 5.mov */; };
+		D6A4EDCE21E093640053D14F /* 8.flv in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC121E093640053D14F /* 8.flv */; };
+		D6A4EDCF21E093640053D14F /* 7.3gp in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC221E093640053D14F /* 7.3gp */; };
+		D6A4EDD021E093640053D14F /* 13.vob in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC321E093640053D14F /* 13.vob */; };
+		D6A4EDD121E093640053D14F /* 11.rmvb in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC421E093640053D14F /* 11.rmvb */; };
+		D6A4EDD221E093640053D14F /* 1.avi in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC521E093640053D14F /* 1.avi */; };
+		D6A4EDD321E093640053D14F /* 6.rm in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC621E093640053D14F /* 6.rm */; };
+		D6A4EDD421E093640053D14F /* 9.gif in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC721E093640053D14F /* 9.gif */; };
+		D6A4EDD521E093640053D14F /* 12.swf in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDC821E093640053D14F /* 12.swf */; };
+		D6A4EDD721E093720053D14F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D6A4EDD621E093720053D14F /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +40,20 @@
 		D6A4EDB121E092E50053D14F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6A4EDB321E092E50053D14F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D6A4EDB421E092E50053D14F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D6A4EDBC21E093640053D14F /* 4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 4.mp4; sourceTree = "<group>"; };
+		D6A4EDBD21E093640053D14F /* 3.mkv */ = {isa = PBXFileReference; lastKnownFileType = file; path = 3.mkv; sourceTree = "<group>"; };
+		D6A4EDBE21E093640053D14F /* 2.wmv */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2.wmv; sourceTree = "<group>"; };
+		D6A4EDBF21E093640053D14F /* 10.mpg */ = {isa = PBXFileReference; lastKnownFileType = video.mpeg; path = 10.mpg; sourceTree = "<group>"; };
+		D6A4EDC021E093640053D14F /* 5.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 5.mov; sourceTree = "<group>"; };
+		D6A4EDC121E093640053D14F /* 8.flv */ = {isa = PBXFileReference; lastKnownFileType = file; path = 8.flv; sourceTree = "<group>"; };
+		D6A4EDC221E093640053D14F /* 7.3gp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 7.3gp; sourceTree = "<group>"; };
+		D6A4EDC321E093640053D14F /* 13.vob */ = {isa = PBXFileReference; lastKnownFileType = file; path = 13.vob; sourceTree = "<group>"; };
+		D6A4EDC421E093640053D14F /* 11.rmvb */ = {isa = PBXFileReference; lastKnownFileType = file; path = 11.rmvb; sourceTree = "<group>"; };
+		D6A4EDC521E093640053D14F /* 1.avi */ = {isa = PBXFileReference; lastKnownFileType = video.avi; path = 1.avi; sourceTree = "<group>"; };
+		D6A4EDC621E093640053D14F /* 6.rm */ = {isa = PBXFileReference; lastKnownFileType = file; path = 6.rm; sourceTree = "<group>"; };
+		D6A4EDC721E093640053D14F /* 9.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 9.gif; sourceTree = "<group>"; };
+		D6A4EDC821E093640053D14F /* 12.swf */ = {isa = PBXFileReference; lastKnownFileType = file; path = 12.swf; sourceTree = "<group>"; };
+		D6A4EDD621E093720053D14F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +70,7 @@
 		D6A4ED9921E092E40053D14F = {
 			isa = PBXGroup;
 			children = (
+				D6A4EDBB21E093640053D14F /* Video */,
 				D6A4EDA421E092E40053D14F /* GHTestVideoDemo */,
 				D6A4EDA321E092E40053D14F /* Products */,
 			);
@@ -69,6 +98,27 @@
 				D6A4EDB421E092E50053D14F /* main.m */,
 			);
 			path = GHTestVideoDemo;
+			sourceTree = "<group>";
+		};
+		D6A4EDBB21E093640053D14F /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				D6A4EDD621E093720053D14F /* README.md */,
+				D6A4EDBC21E093640053D14F /* 4.mp4 */,
+				D6A4EDBD21E093640053D14F /* 3.mkv */,
+				D6A4EDBE21E093640053D14F /* 2.wmv */,
+				D6A4EDBF21E093640053D14F /* 10.mpg */,
+				D6A4EDC021E093640053D14F /* 5.mov */,
+				D6A4EDC121E093640053D14F /* 8.flv */,
+				D6A4EDC221E093640053D14F /* 7.3gp */,
+				D6A4EDC321E093640053D14F /* 13.vob */,
+				D6A4EDC421E093640053D14F /* 11.rmvb */,
+				D6A4EDC521E093640053D14F /* 1.avi */,
+				D6A4EDC621E093640053D14F /* 6.rm */,
+				D6A4EDC721E093640053D14F /* 9.gif */,
+				D6A4EDC821E093640053D14F /* 12.swf */,
+			);
+			path = Video;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,8 +178,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6A4EDCF21E093640053D14F /* 7.3gp in Resources */,
+				D6A4EDC921E093640053D14F /* 4.mp4 in Resources */,
+				D6A4EDCA21E093640053D14F /* 3.mkv in Resources */,
+				D6A4EDCD21E093640053D14F /* 5.mov in Resources */,
+				D6A4EDCE21E093640053D14F /* 8.flv in Resources */,
 				D6A4EDB221E092E50053D14F /* LaunchScreen.storyboard in Resources */,
+				D6A4EDD121E093640053D14F /* 11.rmvb in Resources */,
+				D6A4EDD521E093640053D14F /* 12.swf in Resources */,
+				D6A4EDCB21E093640053D14F /* 2.wmv in Resources */,
+				D6A4EDCC21E093640053D14F /* 10.mpg in Resources */,
+				D6A4EDD321E093640053D14F /* 6.rm in Resources */,
+				D6A4EDD721E093720053D14F /* README.md in Resources */,
 				D6A4EDAF21E092E50053D14F /* Assets.xcassets in Resources */,
+				D6A4EDD021E093640053D14F /* 13.vob in Resources */,
+				D6A4EDD421E093640053D14F /* 9.gif in Resources */,
+				D6A4EDD221E093640053D14F /* 1.avi in Resources */,
 				D6A4EDAD21E092E50053D14F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
