@@ -1,5 +1,5 @@
 # GHTestVideoDemo
-`avi` `wmv` `mkv` `mp4` `mov`  `rm` `3gp` `flv` `gif ` `mpg ` `rmvb ` `swf ` `swf` `vob`
+`avi` `wmv` `mkv` `mp4` `mov`  `rm` `3gp` `flv` `gif ` `mpg ` `rmvb ` `mpg ` `swf` `vob`
 #### 在开发中可能需要各种格式的视频做测试,这里我整理了下有需要的朋友自行下载 demo总大小40m
 
 - [x] avi
